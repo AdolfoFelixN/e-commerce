@@ -1,0 +1,144 @@
+[
+    {
+      "id": 1, 
+      "categoria": "hombre",
+      "nombre": "Manfinity Homme Hombres Camisa con botón unicolor",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2021/09/18/1631940322602b6a608f82ea968cb62b543ade8667_thumbnail_900x.webp",
+      "precio": 217.98
+    },
+    {
+      "id": 2, 
+      "categoria": "mujer",
+      "nombre": "Traje De Baño De Una Pieza Con Escote En V Sexy Europeo Y Americano, Con Detalles De Color Blanco Y Negro",
+      "imagen": "https://img.ltwebstatic.com/images3_spmp/2023/12/02/db/17014871061965a17cbb8881bbd533baf964cc6edf_thumbnail_900x.webp",
+      "precio": 309.00
+    },
+    {
+      "id": 3, 
+      "categoria": "mujer",
+      "nombre": "Frenchy Camisa Casual De Verano Con Rayas Flojas Para Mujer Con Mangas De Hombro Caído",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2024/03/22/1b/1711075163483c2f67e441f943b14de47e07d57a76_wk_shein_thumbnail_900x.webp",
+      "precio": 268.10
+    },
+    {
+      "id": 4, 
+      "categoria": "hombre",
+      "nombre": "Manfinity Homme Hombres Camisa de rayas verticales con botón",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2021/10/20/163469170298f236fef98b8ea8c6754c47b05f6c0d_thumbnail_900x.webp",
+      "precio": 340.76
+    },
+    {
+      "id": 5, 
+      "categoria": "hombre",
+      "nombre": "Manfinity Homme Camisa de cuadros con botón",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2022/08/24/16613270373055064d072f41620c4940f43ede55ac_thumbnail_900x.webp",
+      "precio": 183.18
+    },
+    {
+      "id": 6, 
+      "categoria": "mujer",
+      "nombre": "VCAY Camisa de muslo con abertura floral",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2021/07/06/1625548953f497e4e612496da87f01a605fc89a5ff_thumbnail_900x.webp",
+      "precio": 167.25
+    },
+    {
+      "id": 7, 
+      "categoria": "mujer",
+      "nombre": "Blusa de color combinado de cuello de muesca de manga murciélago",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2022/12/03/1670033017be959b3c704a65f45bd50579b7738a4f_thumbnail_900x.webp",
+      "precio": 195.20
+    },
+    {
+      "id": 8, 
+      "categoria": "mujer, calzado",
+      "nombre": "Sandalias para mujeres plano con banda cruzada con tacón con tobillo tirantes",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2023/07/10/1689000852c748f11d00b5873ee78a4c3c93ee555f_thumbnail_900x.webp",
+      "precio": 197.00
+    },
+    {
+      "id": 9, 
+      "categoria": "hombre, calzado",
+      "nombre": "Hombres Botas minimalista sin cordones chelsea minimalista negro de serraje falso",
+      "imagen": "https://img.ltwebstatic.com/images3_spmp/2023/05/23/16848293775c6d95f3d250e39a0022387171210bff_thumbnail_900x.webp",
+      "precio": 676.00
+    },
+    {
+      "id": 10, 
+      "categoria": "mujer, calzado",
+      "nombre": "Zapatillas De Una Banda Casual De Moda Y Cómodas Sandalias De Estilo Japonés Para Estudiantes",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2023/12/11/e4/1702286597dcedf6506b68f839b414107b76d3993e_thumbnail_900x.webp",
+      "precio": 577.00
+    },
+    {
+      "id": 11,
+      "categoria": "mujer",
+      "nombre": "Shorts con blusa con botón bajo irregular",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2022/06/02/16541515456a82efc50d2ccf5da681df861d75680e_thumbnail_900x.webp",
+      "precio": 466.20
+    },
+    {
+      "id": 12,
+      "categoria": "hombre",
+      "nombre": "Manfinity Homme Hombres Camisa con estampado de rayas",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2024/04/26/88/1714134272d86d00b668aaf2a2c6d41db2ea400462_thumbnail_900x.webp",
+      "precio": 148.74
+    },
+    {
+      "id": 13,
+      "categoria": "hombre",
+      "nombre": "Manfinity RSRT Pantalones Cortos Con Cordón Con Estampado Completo Para Hombre",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2021/04/20/1618903030ff6e7049a12f77f645fb317faa3e383f_thumbnail_900x.webp",
+      "precio": 107.05
+    },
+    {
+      "id": 14,
+      "categoria": "mujer",
+      "nombre": "Camisa De Trabajo De Mujer Con Botones De Rayas Y Estampados",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2023/09/07/9c/1694071915ecf818c1b254942af1c290bee8ddc795_wk_shein_thumbnail_900x.webp",
+      "precio": 270.00
+    },
+    {
+      "id": 15,
+      "categoria": "hombre",
+      "nombre": "Manfinity Homme Hombres Camiseta de color combinado con estampado de letra",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2022/07/18/16581239969ad5d6e0e2359d13fcfbc98d37173ef4_thumbnail_900x.webp",
+      "precio": 127.16
+    },
+    {
+      "id": 16,
+      "categoria": "mujer",
+      "nombre": "Camisa De Mujer De Manga Larga Y Diseño Con Cuello Vuelto Impreso En Estilo Europeo Y Americano De Primavera Y Otoño, Ajuste Holgado Y Cómodo Para Piel, Casual",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2024/01/18/71/170556848320b90ed254f4271788140a73377b70d8_thumbnail_900x.webp",
+      "precio": 221.36
+    },
+    {
+      "id": 17,
+      "categoria": "mujer",
+      "nombre": "Conjunto De 2 Piezas De Manga Corta Estampado Y Corte Holgado Para Mujer",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2024/01/16/9a/1705399324a7737654b90f231727c146008d91c59b_thumbnail_900x.webp",
+      "precio": 264.00
+    },
+    {
+      "id": 18,
+      "categoria": "hombre",
+      "nombre": "Camisa De Polo De Manga Larga Para Hombres, Estilo De Primavera Y Otoño, Cuello De Polo, Combinable, Camisa Vintage Sencilla Y De Moda De Paul, Diseño Original, Ajuste Holgado Deportivo Y Casual, Vacaciones, Resistente A Las Arrugas, Transpirable, Color Sólido, Superior Basico, Negocios Y Moda",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2024/03/20/ca/1710925272d1a31556397d3dd56688122839d530bd_thumbnail_900x.webp",
+      "precio": 228.40
+    },
+    {
+      "id": 19,
+      "categoria": "hombre",
+      "nombre": "Manfinity Homme Hombres Camisa polo con estampado de cuadros",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2023/05/11/1683771702862b5acfac226d375191ce036a27b32a_thumbnail_900x.webp",
+      "precio": 179.65
+    },
+    {
+      "id": 20,
+      "categoria": "hombre",
+      "nombre": "Manfinity Homme Hombres Camisa polo con estampado de rayas de color combinado",
+      "imagen": "https://img.ltwebstatic.com/images3_pi/2023/08/01/1690860912f4f274360cd2073b090da3864d2d660b_thumbnail_900x.webp",
+      "precio": 179.55
+    }
+          
+]
+  

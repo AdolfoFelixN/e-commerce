@@ -1,0 +1,93 @@
+.categorias{
+    background-color: aliceblue;
+    display: flex;   
+    padding: 10px 0; 
+}
+
+.contenedor{    
+    margin: 0 auto;    
+}
+
+.categorias ul{
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 0;   
+    gap: 40px;  
+    margin: 0;  
+}
+
+.categorias ul span{    
+    color: black;
+    font-size: 18px;
+    font-family: 'koulen', sans-serif;
+    cursor: pointer;
+}
+
+.categorias ul span:hover{
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+    transition: .5s;
+}
+
+/****************Carta****************/
+.fila{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;    
+    gap: 0px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.producto{
+    width: 15%;      
+    height: 400px;    
+    background-color: white;
+    border-radius: 10px;    
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);    
+    margin: 10px 15px;
+}
+
+.imagenProducto{
+    width: 100%;
+    height: 250px;    
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.producto img{
+    width: 100%;
+    height: 100%;   
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.pieProducto{
+    background-color: rgb(0, 0, 0);
+    color: white;  
+    padding: 10px;  
+    border-radius: 0 0 10px 10px;
+}
+
+.pieProducto h3{
+    font-size: 18px;
+}
+
+.cantidadProducto{
+    display: flex;
+    justify-content: center;
+}
+
+.cantidadProducto i{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 5px;
+    padding: 2px 5px;        
+    cursor: pointer;
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+    font-style: normal;
+}
